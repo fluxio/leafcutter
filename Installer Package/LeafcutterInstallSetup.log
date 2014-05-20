@@ -1,0 +1,28 @@
+
+Processing C:\Users\marc\Documents\GitHub\leafcutter_gh\Installer Package\LeafcutterInstallSetup.ci 5/16/2014 3:16:58 PM
+Log file: C:\Users\marc\Documents\GitHub\leafcutter_gh\Installer Package\LeafcutterInstallSetup.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\marc\Documents\GitHub\leafcutter_gh\Installer Package\LeafcutterInstall\LeafcutterSetup.exe 
+Adding temporary file(s) to EXE 
+C:\Users\marc\AppData\Local\Temp\gentee01\english.lng 5/16/2014 3:16:59 PM 3503  45.18%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Installer Package\installerImg.jpg 5/13/2014 2:36:31 PM 23554  64.33%
+C:\Program Files (x86)\CreateInstall Free\res\logo\default - 1.bmp 11/5/2002 1:52:24 AM 7308  52.50%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\install\install - 1.bmp 11/10/2002 1:56:02 AM 20678  33.42%
+C:\Program Files (x86)\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 11/10/2002 1:56:02 AM 20678  28.17%
+Build setup file: C:\Users\marc\AppData\Local\Temp\gentee01\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Google.GData.AccessControl.DLL 5/13/2014 10:25:28 AM 24576  19.04%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Google.GData.Client.dll 5/13/2014 10:25:28 AM 212992  39.72%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Google.GData.Documents.dll 5/13/2014 10:25:28 AM 53248  28.08%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Google.GData.Extensions.dll 5/13/2014 10:25:28 AM 90112  29.50%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Google.GData.Spreadsheets.dll 5/13/2014 10:25:28 AM 40960  25.37%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\GoogleDriveGH.gha 5/16/2014 3:13:58 PM 79360  41.80%
+C:\Users\marc\Documents\GitHub\leafcutter_gh\Source\bin\Release\Newtonsoft.Json.dll 5/13/2014 10:25:28 AM 375296  40.32%
+================================ 
+All files: 7 [ 856KB => 318KB ] 
+File Size C:\Users\marc\Documents\GitHub\leafcutter_gh\Installer Package\LeafcutterInstall\LeafcutterSetup.exe: 439 KB 
+Finish Successful 5/16/2014 3:17:00 PM

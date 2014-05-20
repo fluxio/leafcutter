@@ -1,0 +1,4 @@
+$ cat .gitignore
+
+#ignore obj directory
+obj/
